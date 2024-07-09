@@ -59,6 +59,11 @@ export function capitalize(str: any) {
     return text;
   }
   
- 
 
+
+  export function formatRibuan(angka: number) {
+    return angka.toLocaleString('id-ID');
+  }
+  
+  
   

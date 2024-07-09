@@ -5,8 +5,8 @@ import React from "react";
 import { NextComponentType } from "next";
 import "dayjs/locale/id";
 import dayjs from "dayjs";
-
 import ProtectedLayout from "@/layouts/ProtectedLayout";
+import { SessionProvider } from "next-auth/react";
 dayjs.locale("id");
 type GetLayout = (page: React.ReactNode) => React.ReactNode;
 
@@ -15,13 +15,16 @@ type ComponentProp = NextComponentType & {
 };
 
 type AppProps = NextAppProps & { Component: ComponentProp };
-function MyApp({ Component, pageProps: { ...pageProps } }: AppProps) {
+function MyApp({ Component, pageProps: { session, ...pageProps } }: AppProps) {
   const getLayout =
-    Component.getLayout || ((page) => <ProtectedLayout>{page}</ProtectedLayout>);
+    Component.getLayout ??
+    ((page) => <ProtectedLayout>{page}</ProtectedLayout>);
   return (
     <ErrorBoundary>
       <React.StrictMode>
-        {getLayout(<Component {...pageProps} />)}
+        <SessionProvider session={session}>
+          {getLayout(<Component {...pageProps} />)}
+        </SessionProvider>
       </React.StrictMode>
     </ErrorBoundary>
   );

@@ -45,7 +45,7 @@ const MobileLayout = ({
     {
       access: true,
 
-      route: "/mobile/",
+      route: "/mobile/agenda",
       routeRef: "m.paraf.page",
 
       iosIcon: <CalendarClock className="w-7 h-7" />,
@@ -64,7 +64,7 @@ const MobileLayout = ({
     {
       access: true,
 
-      route: "/mobile/",
+      route: "/mobile/berita",
       routeRef: "m.overview.page",
       iosIcon: <Newspaper className="w-7 h-7" />,
       materialIcon: <Newspaper className="w-6 h-6" />,

@@ -16,7 +16,7 @@ import {
 import React, { useState } from "react";
 
 const TabulasiFormPage = () => {
-    const [basicOpened, setBasicOpened] = useState(false); 
+  const [basicOpened, setBasicOpened] = useState(false);
   const [value, setValue] = useState(1);
   const increase = () => {
     setValue(value + 1);
@@ -25,7 +25,7 @@ const TabulasiFormPage = () => {
     setValue(value - 1 < 0 ? 0 : value - 1);
   };
 
-  const [inputValue, setInputValue] = useState(1);
+  const [inputValue, setInputValue] = useState<any>(1);
   const increaseInput = () => {
     const v = parseInt(inputValue, 10);
     if (isNaN(v)) setInputValue(0);
@@ -43,7 +43,7 @@ const TabulasiFormPage = () => {
     if (isNaN(parseInt(inputValue, 10))) setInputValue(0);
   };
   return (
-    <MobileLayout tabbar={false}>
+    <>
       <Navbar
         left={
           <NavbarBackLink showText={false} onClick={() => history.back()} />
@@ -191,33 +191,36 @@ const TabulasiFormPage = () => {
       </div>
       <div className="flex gap-2 px-3">
         <Button>Reset Ulang Suara</Button>
-       <div className="flex-1">
-       <Button color="primary" onClick={() => setBasicOpened(true)} className="w-full">Simpan Suara (Draft) </Button>
-       </div>
+        <div className="flex-1">
+          <Button
+            color="primary"
+            onClick={() => setBasicOpened(true)}
+            className="w-full"
+          >
+            Simpan Suara (Draft){" "}
+          </Button>
+        </div>
       </div>
-      <Dialog onBackdropClick={() => {}}
-          opened={basicOpened}
-         
-          title="Pesan Konfirmasi"
-          content={
-            <>
-            Apakah Anda yakin untuk mengonfirmasi suara  ini ? 
-
-            </>
-          }
-          buttons={
-            <>
-              <DialogButton onClick={() => setBasicOpened(false)}>
-          Batal
-              </DialogButton>
-              <DialogButton onClick={() => setBasicOpened(false)}>
-                Ya, Submit
-              </DialogButton>
-            </>
-          }
-        />
-    </MobileLayout>
+      <Dialog
+        onBackdropClick={() => {}}
+        opened={basicOpened}
+        title="Pesan Konfirmasi"
+        content={<>Apakah Anda yakin untuk mengonfirmasi suara ini ?</>}
+        buttons={
+          <>
+            <DialogButton onClick={() => setBasicOpened(false)}>
+              Batal
+            </DialogButton>
+            <DialogButton onClick={() => setBasicOpened(false)}>
+              Ya, Submit
+            </DialogButton>
+          </>
+        }
+      />
+    </>
   );
 };
-
+TabulasiFormPage.getLayout = (page) => (
+  <MobileLayout tabbar={false}>{page}</MobileLayout>
+);
 export default TabulasiFormPage;
