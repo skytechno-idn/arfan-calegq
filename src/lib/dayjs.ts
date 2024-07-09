@@ -7,4 +7,8 @@ import timezone from 'dayjs/plugin/timezone';
 dayjs.extend(utc);
 dayjs.extend(timezone);
 
+// Set the default time zone
+const defaultTimeZone = 'America/New_York';
+dayjs.tz.setDefault(defaultTimeZone);
+
 export default dayjs;
