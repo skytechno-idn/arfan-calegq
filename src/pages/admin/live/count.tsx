@@ -4,7 +4,7 @@ import { Avatar, Card, CardBody, Chip, Image } from "@nextui-org/react";
 const ChartRace = dynamic(() => import("react-chart-race"), { ssr: false });
 
 const LiveCountPage = () => {
-  const [data, setData] = useState([]);
+  const [data, setData] = useState<any>([]);
 
   useEffect(() => {
     const handleChange = () => {
@@ -71,7 +71,7 @@ const LiveCountPage = () => {
         <Card>
           <CardBody>
             <ChartRace
-              data={data}
+              data={data as any}
               backgroundColor="transparent"
               // width={760}
               padding={0}

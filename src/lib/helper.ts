@@ -62,7 +62,11 @@ export function capitalize(str: any) {
 
 
   export function formatRibuan(angka: number) {
-    return angka.toLocaleString('id-ID');
+    if(typeof angka === 'number'){
+      return angka.toLocaleString('id-ID');
+    }
+    return angka
+   
   }
   
   
