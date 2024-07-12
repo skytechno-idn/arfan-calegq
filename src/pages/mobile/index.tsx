@@ -1,6 +1,6 @@
 import { GET_MYTPS } from "@/configs/saksi-endpoints";
 import MobileLayout from "@/layouts/MobileLayout";
-import { formatRibuan } from "@/lib/helper";
+import { formatRibuan, padNumber } from "@/lib/helper";
 import { User } from "@nextui-org/react";
 import { Page } from "konsta/react";
 import { useSession } from "next-auth/react";
@@ -17,7 +17,8 @@ const HomePage = () => {
   } = useSWR(`${GET_MYTPS}`, {
     keepPreviousData: true,
   });
-  const { result } = responseData || {};
+  const { result,total_saksi,
+    total_tps } = responseData || {};
   console.log(responseData);
   return (
     <div>
@@ -37,7 +38,7 @@ const HomePage = () => {
         <div className="w-full bg-white p-5 rounded-lg ">
           <div>
             <span className="font-semibold">TPS </span>:{" "}
-            <b>{result?.nama_tps}</b>
+            <b>{padNumber(parseInt(result?.nama_tps))}</b>
           </div>
           <div>
             <span className="font-semibold">Kecamatan</span> :{" "}
@@ -53,24 +54,24 @@ const HomePage = () => {
         <div className="grid grid-cols-3  gap-2">
           <div className="bg-white p-3 rounded-lg">
             <span className="tracking-tighter text-sm font-semibold">
-              Total DPT
+             DPT TPS ini
             </span>
             <div className="font-bold">{formatRibuan(result?.jml_dpt)}</div>
           </div>
           <div className="bg-white p-3 rounded-lg">
             <span className="tracking-tighter text-sm font-semibold">
-              Total Saksi
+             Semua Saksi
             </span>
-            <div className="font-bold">12.000</div>
+            <div className="font-bold">{formatRibuan(total_saksi)}</div>
           </div>
           <div className="bg-white p-3 rounded-lg">
             <span className="tracking-tighter text-sm font-semibold">
-              Total TPS
+             Semua TPS
             </span>
-            <div className="font-bold">12.000</div>
+            <div className="font-bold">{formatRibuan(total_tps)}</div>
           </div>
         </div>
-
+       
         <div className="mt-5">
           <div className="font-semibold">Agenda</div>
           <div className="mt-2 grid grid-cols-1 gap-2">

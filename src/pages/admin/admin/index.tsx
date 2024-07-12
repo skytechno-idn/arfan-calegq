@@ -10,6 +10,7 @@ import axiosInstance from "@/lib/axios";
 import toast from "react-hot-toast";
 import DialogDelete from "@/components/DialogDelete";
 import { useAdminStore } from "@/stores/adminStore";
+import dayjs from "@/lib/dayjs";
 
 const AdminPage = () => {
   const [url, setUrl] = useState(`${ADMIN}?page=1&pageSize=10&search=`);
@@ -57,18 +58,18 @@ const AdminPage = () => {
           </div>
         );
 
-      case "createdAt":
-        return (
-          <div className="tracking-tighter ">
-            {/* {dayjs(row.createdAt).format("DD-MM-YYYY HH:mm:ss")} */}
-          </div>
-        );
-      case "updatedAt":
-        return (
-          <div className="tracking-tighter ">
-            {/* {dayjs(row.updatedAt).format("DD-MM-YYYY HH:mm:ss")} */}
-          </div>
-        );
+        case "createdAt":
+          return (
+            <div className="tracking-tighter ">
+              {dayjs(row.createdAt).format("DD-MM-YYYY HH:mm:ss")}
+            </div>
+          );
+        case "updatedAt":
+          return (
+            <div className="tracking-tighter ">
+              {dayjs(row.updatedAt).format("DD-MM-YYYY HH:mm:ss")}
+            </div>
+          );
       case "actions":
         return (
           <div className="relative flex items-center justify-end gap-2">
@@ -132,7 +133,7 @@ const AdminPage = () => {
             <DataTable
               searchingKey="Nama,Email"
               loading={loadingData}
-              triggerSearch={(e) => setUrl(`${ADMIN}?page=1&search=${e}`)}
+              triggerSearch={(e) => setUrl(`${ADMIN}?page=1&q=${e}`)}
               triggerChangePage={(e) => setUrl(`${ADMIN}?page=${e}`)}
               data={result}
               page={page}
@@ -147,7 +148,7 @@ const AdminPage = () => {
                     onClick={() => handleModalsTrigger("form", null)}
                     startContent={<PlusCircle />}
                   >
-                    Tambah Admin
+                    <span className="lg:block hidden">Tambah Admin</span>
                   </Button>
                 </>
               }

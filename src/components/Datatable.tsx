@@ -94,10 +94,8 @@ export default function DataTable({
 
   const bottomContent = React.useMemo(() => {
     return (
-      <div className="py-2 px-2 flex justify-between items-center">
-        <Chip>{`${data.length} of ${totalRows} `}</Chip>
-        <div className="flex">
-          <div className="lg:block hidden justify-end gap-2">
+      <div className="py-2 px-2 flex justify-center lg:justify-end items-center">
+       <div className=" lg:justify-end gap-2">
             <Pagination
               isCompact
               showControls
@@ -108,27 +106,6 @@ export default function DataTable({
               onChange={(page) => handlePage(page)}
             />
           </div>
-          <div className="lg:hidden justify-end gap-2">
-            <div className="flex gap-2">
-              <Button
-                isDisabled={pages === 1}
-                size="sm"
-                variant="flat"
-                onPress={onPreviousPage}
-              >
-                Previous
-              </Button>
-              <Button
-                isDisabled={pages === 1}
-                size="sm"
-                variant="flat"
-                onPress={onNextPage}
-              >
-                Next
-              </Button>
-            </div>
-          </div>
-        </div>
       </div>
     );
   }, [data.length, page, pages, hasSearchFilter]);

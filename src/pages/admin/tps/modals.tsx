@@ -22,13 +22,11 @@ import { InfoIcon } from "lucide-react";
 import { SAKSI, TPS } from "@/configs/admin-endpoints";
 import { useTpsStore } from "@/stores/tpsStore";
 import { z } from "zod";
+import DesaSelect from "@/components/selects/DesaSelect";
 
 type FormSchemaType = z.infer<typeof FormSchema>;
-export default function Modals({ onMutate, kecamatanData }) {
-  const kecamatanitems = kecamatanData?.map((item) => ({
-    value: item?.id,
-    label: `${item?.id} - ${item.kecamatan.nama_kacamatan} | ${item?.desa?.nama_desa} - TPS ${item?.nama_tps}`,
-  }));
+export default function Modals({ onMutate }) {
+ 
   const {
     modals,
     handleModalsTrigger,
@@ -107,25 +105,20 @@ export default function Modals({ onMutate, kecamatanData }) {
           ))}
         </Select> */}
       </div>
+
       <div>
-        {/* <Select
-          label="TPS"
-          placeholder="Pilih TPS"
-          defaultSelectedKeys={
-            new Set([`${getValues("id_tps") || rowSelected?.id_tps}`])
-          }
-          {...register("id_tps")}
-          onSelectionChange={(target: any) =>
-            setValue("id_tps", target.anchorKey)
-          }
-          isInvalid={!!errors?.id_tps}
-          errorMessage={errors?.id_tps?.message}
-        >
-          {tpsitems?.map((tps) => (
-            <SelectItem key={tps.value}>{tps.label}</SelectItem>
-          ))}
-        </Select> */}
+        <DesaSelect
+          error={errors?.id_desa}
+          {...register("id_desa")}
+          defaultSelected={getValues("id_desa") || rowSelected?.id_desa}
+          label="Desa"
+          placeholder="Pilih Desa"
+          onChange={(e: any) => {
+            setValue("id_desa", e.id);
+          }}
+        />
       </div>
+
       <Input
         type="text"
         label="Nama TPS"

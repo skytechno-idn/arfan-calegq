@@ -17,31 +17,18 @@ const FormSchema = (isEditMode: boolean) =>
       ? z
           .string()
           .optional()
-          .refine(
-            (val) =>
-              !val ||
-              /^(?=.*?[A-Z])(?=.*?[a-z])(?=.*?[0-9])(?=.*?[#?!@$%^&*-]).{8,}$/.test(
-                val
-              ),
-            {
-              message:
-                "Password must be at least 8 characters long and contain at least one uppercase character, one lowercase character, and one special symbol",
-            }
-          )
+       
+          .refine((val:any) =>  !val || val?.length >= 8, {
+            message: "Harus memiliki panjang tepat 8 karakter",
+          })
+
       : z
           .string()
           .min(8)
           .max(20)
-          .refine(
-            (val) =>
-              /^(?=.*?[A-Z])(?=.*?[a-z])(?=.*?[0-9])(?=.*?[#?!@$%^&*-]).{8,}$/.test(
-                val
-              ),
-            {
-              message:
-                "Password must be at least 8 characters long and contain at least one uppercase character, one lowercase character, and one special symbol",
-            }
-          ),
+          .refine((val:any) => val?.length >= 8, {
+            message: "Harus memiliki panjang tepat 8 karakter",
+          })
   });
 
 export { FormSchema, BaseFormSchema };

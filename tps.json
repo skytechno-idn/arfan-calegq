@@ -1,0 +1,4392 @@
+[
+    {
+      "id": "1",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "7503040014",
+      "nama_tps": "1",
+      "jml_dpt": 285,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "10",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503031",
+      "id_desa": "7503031002",
+      "nama_tps": "4",
+      "jml_dpt": 277,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "100",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503011",
+      "id_desa": "7503011002",
+      "nama_tps": "3",
+      "jml_dpt": 278,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "101",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503011",
+      "id_desa": "7503011002",
+      "nama_tps": "4",
+      "jml_dpt": 295,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "102",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503033",
+      "id_desa": "7503033001",
+      "nama_tps": "5",
+      "jml_dpt": 295,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "103",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503033",
+      "id_desa": "7503033001",
+      "nama_tps": "1",
+      "jml_dpt": 291,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "104",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503033",
+      "id_desa": "7503033001",
+      "nama_tps": "2",
+      "jml_dpt": 300,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "105",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503033",
+      "id_desa": "7503033001",
+      "nama_tps": "3",
+      "jml_dpt": 285,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "106",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503033",
+      "id_desa": "7503033001",
+      "nama_tps": "4",
+      "jml_dpt": 277,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "107",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503031",
+      "id_desa": "7503031006",
+      "nama_tps": "5",
+      "jml_dpt": 218,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "108",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503031",
+      "id_desa": "7503031006",
+      "nama_tps": "6",
+      "jml_dpt": 237,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "109",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503031",
+      "id_desa": "7503031006",
+      "nama_tps": "7",
+      "jml_dpt": 242,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "11",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503031",
+      "id_desa": "7503031002",
+      "nama_tps": "5",
+      "jml_dpt": 248,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "110",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503031",
+      "id_desa": "7503031006",
+      "nama_tps": "1",
+      "jml_dpt": 207,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "111",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503032",
+      "id_desa": "7503032003",
+      "nama_tps": "2",
+      "jml_dpt": 233,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "112",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503032",
+      "id_desa": "7503032003",
+      "nama_tps": "3",
+      "jml_dpt": 267,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "113",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503032",
+      "id_desa": "7503032003",
+      "nama_tps": "4",
+      "jml_dpt": 234,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "114",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503032",
+      "id_desa": "7503032003",
+      "nama_tps": "1",
+      "jml_dpt": 249,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "115",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503032",
+      "id_desa": "7503032003",
+      "nama_tps": "2",
+      "jml_dpt": 238,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "116",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503032",
+      "id_desa": "7503032003",
+      "nama_tps": "3",
+      "jml_dpt": 253,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "117",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503051",
+      "id_desa": "9500000003",
+      "nama_tps": "1",
+      "jml_dpt": 250,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "118",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503051",
+      "id_desa": "9500000003",
+      "nama_tps": "2",
+      "jml_dpt": 270,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "119",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503051",
+      "id_desa": "9500000003",
+      "nama_tps": "3",
+      "jml_dpt": 285,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "12",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503031",
+      "id_desa": "7503031002",
+      "nama_tps": "6",
+      "jml_dpt": 164,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "120",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503051",
+      "id_desa": "9500000003",
+      "nama_tps": "4",
+      "jml_dpt": 287,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "121",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "7503040003",
+      "nama_tps": "1",
+      "jml_dpt": 297,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "122",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "7503040003",
+      "nama_tps": "2",
+      "jml_dpt": 291,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "123",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "7503040003",
+      "nama_tps": "3",
+      "jml_dpt": 289,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "124",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "7503040003",
+      "nama_tps": "4",
+      "jml_dpt": 285,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "125",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503031",
+      "id_desa": "9500000009",
+      "nama_tps": "1",
+      "jml_dpt": 284,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "126",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503031",
+      "id_desa": "9500000009",
+      "nama_tps": "2",
+      "jml_dpt": 282,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "127",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503031",
+      "id_desa": "9500000009",
+      "nama_tps": "3",
+      "jml_dpt": 281,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "128",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503031",
+      "id_desa": "9500000009",
+      "nama_tps": "4",
+      "jml_dpt": 283,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "129",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503031",
+      "id_desa": "9500000009",
+      "nama_tps": "5",
+      "jml_dpt": 290,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "13",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "7503040016",
+      "nama_tps": "1",
+      "jml_dpt": 140,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "130",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503031",
+      "id_desa": "9500000009",
+      "nama_tps": "6",
+      "jml_dpt": 281,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "131",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503031",
+      "id_desa": "9500000009",
+      "nama_tps": "7",
+      "jml_dpt": 263,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "132",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "7503040004",
+      "nama_tps": "8",
+      "jml_dpt": 227,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "133",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "7503040004",
+      "nama_tps": "1",
+      "jml_dpt": 250,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "134",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "7503040004",
+      "nama_tps": "2",
+      "jml_dpt": 179,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "135",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "7503040004",
+      "nama_tps": "3",
+      "jml_dpt": 201,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "136",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503041",
+      "id_desa": "7503041004",
+      "nama_tps": "1",
+      "jml_dpt": 264,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "137",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503041",
+      "id_desa": "7503041004",
+      "nama_tps": "10",
+      "jml_dpt": 266,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "138",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503041",
+      "id_desa": "7503041004",
+      "nama_tps": "2",
+      "jml_dpt": 258,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "139",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503051",
+      "id_desa": "7503051003",
+      "nama_tps": "3",
+      "jml_dpt": 263,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "14",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "7503040016",
+      "nama_tps": "2",
+      "jml_dpt": 294,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "140",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503051",
+      "id_desa": "7503051003",
+      "nama_tps": "4",
+      "jml_dpt": 285,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "141",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503051",
+      "id_desa": "7503051004",
+      "nama_tps": "5",
+      "jml_dpt": 286,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "142",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503051",
+      "id_desa": "7503051004",
+      "nama_tps": "6",
+      "jml_dpt": 251,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "143",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503051",
+      "id_desa": "7503051004",
+      "nama_tps": "7",
+      "jml_dpt": 283,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "144",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503051",
+      "id_desa": "7503051004",
+      "nama_tps": "8",
+      "jml_dpt": 274,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "145",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503032",
+      "id_desa": "7503032005",
+      "nama_tps": "9",
+      "jml_dpt": 248,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "146",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503032",
+      "id_desa": "7503032005",
+      "nama_tps": "1",
+      "jml_dpt": 287,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "147",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503032",
+      "id_desa": "7503032005",
+      "nama_tps": "10",
+      "jml_dpt": 277,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "148",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503012",
+      "id_desa": "7503012007",
+      "nama_tps": "2",
+      "jml_dpt": 287,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "149",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503012",
+      "id_desa": "7503012007",
+      "nama_tps": "3",
+      "jml_dpt": 285,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "15",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "7503040016",
+      "nama_tps": "3",
+      "jml_dpt": 247,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "150",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503050",
+      "id_desa": "7503050014",
+      "nama_tps": "4",
+      "jml_dpt": 289,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "151",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503050",
+      "id_desa": "7503050014",
+      "nama_tps": "5",
+      "jml_dpt": 287,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "152",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503020",
+      "id_desa": "7503020008",
+      "nama_tps": "6",
+      "jml_dpt": 287,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "153",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503020",
+      "id_desa": "7503020008",
+      "nama_tps": "7",
+      "jml_dpt": 285,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "154",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503020",
+      "id_desa": "7503020008",
+      "nama_tps": "8",
+      "jml_dpt": 293,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "155",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503021",
+      "id_desa": "7503021004",
+      "nama_tps": "9",
+      "jml_dpt": 273,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "156",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503021",
+      "id_desa": "7503021004",
+      "nama_tps": "1",
+      "jml_dpt": 289,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "157",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503020",
+      "id_desa": "7503020002",
+      "nama_tps": "2",
+      "jml_dpt": 293,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "158",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503020",
+      "id_desa": "7503020002",
+      "nama_tps": "3",
+      "jml_dpt": 213,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "159",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503020",
+      "id_desa": "7503020002",
+      "nama_tps": "4",
+      "jml_dpt": 243,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "16",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503021",
+      "id_desa": "7503021003",
+      "nama_tps": "4",
+      "jml_dpt": 167,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "160",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503020",
+      "id_desa": "7503020002",
+      "nama_tps": "5",
+      "jml_dpt": 292,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "161",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503020",
+      "id_desa": "7503020002",
+      "nama_tps": "6",
+      "jml_dpt": 263,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "162",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503020",
+      "id_desa": "7503020002",
+      "nama_tps": "7",
+      "jml_dpt": 233,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "163",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503020",
+      "id_desa": "7503020002",
+      "nama_tps": "1",
+      "jml_dpt": 282,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "164",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503020",
+      "id_desa": "7503020009",
+      "nama_tps": "2",
+      "jml_dpt": 280,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "165",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503020",
+      "id_desa": "7503020009",
+      "nama_tps": "3",
+      "jml_dpt": 260,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "166",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503020",
+      "id_desa": "7503020009",
+      "nama_tps": "4",
+      "jml_dpt": 267,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "167",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503020",
+      "id_desa": "7503020009",
+      "nama_tps": "5",
+      "jml_dpt": 263,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "168",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503020",
+      "id_desa": "7503020009",
+      "nama_tps": "6",
+      "jml_dpt": 258,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "169",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503050",
+      "id_desa": "7503050001",
+      "nama_tps": "7",
+      "jml_dpt": 210,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "17",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503021",
+      "id_desa": "7503021003",
+      "nama_tps": "5",
+      "jml_dpt": 231,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "170",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503050",
+      "id_desa": "7503050001",
+      "nama_tps": "1",
+      "jml_dpt": 278,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "171",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503050",
+      "id_desa": "7503050001",
+      "nama_tps": "2",
+      "jml_dpt": 283,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "172",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503050",
+      "id_desa": "7503050001",
+      "nama_tps": "3",
+      "jml_dpt": 278,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "173",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503050",
+      "id_desa": "7503050001",
+      "nama_tps": "4",
+      "jml_dpt": 252,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "174",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503021",
+      "id_desa": "7503021005",
+      "nama_tps": "5",
+      "jml_dpt": 236,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "175",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503021",
+      "id_desa": "7503021005",
+      "nama_tps": "6",
+      "jml_dpt": 200,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "176",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503021",
+      "id_desa": "7503021005",
+      "nama_tps": "1",
+      "jml_dpt": 294,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "177",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503020",
+      "id_desa": "7503020001",
+      "nama_tps": "2",
+      "jml_dpt": 238,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "178",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503020",
+      "id_desa": "7503020001",
+      "nama_tps": "3",
+      "jml_dpt": 259,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "179",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503020",
+      "id_desa": "7503020001",
+      "nama_tps": "4",
+      "jml_dpt": 274,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "18",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "9500000002",
+      "nama_tps": "6",
+      "jml_dpt": 286,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "180",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503020",
+      "id_desa": "7503020001",
+      "nama_tps": "5",
+      "jml_dpt": 270,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "181",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503012",
+      "id_desa": "7503012003",
+      "nama_tps": "6",
+      "jml_dpt": 202,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "182",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503012",
+      "id_desa": "7503012003",
+      "nama_tps": "7",
+      "jml_dpt": 261,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "183",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503012",
+      "id_desa": "7503012003",
+      "nama_tps": "1",
+      "jml_dpt": 202,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "184",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503012",
+      "id_desa": "7503012003",
+      "nama_tps": "2",
+      "jml_dpt": 205,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "185",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503041",
+      "id_desa": "9500000004",
+      "nama_tps": "3",
+      "jml_dpt": 197,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "186",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503041",
+      "id_desa": "9500000004",
+      "nama_tps": "4",
+      "jml_dpt": 204,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "187",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503041",
+      "id_desa": "9500000004",
+      "nama_tps": "5",
+      "jml_dpt": 171,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "188",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503041",
+      "id_desa": "9500000004",
+      "nama_tps": "6",
+      "jml_dpt": 247,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "189",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503041",
+      "id_desa": "7503041001",
+      "nama_tps": "1",
+      "jml_dpt": 263,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "19",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "9500000002",
+      "nama_tps": "1",
+      "jml_dpt": 171,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "190",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503041",
+      "id_desa": "7503041001",
+      "nama_tps": "2",
+      "jml_dpt": 248,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "191",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503041",
+      "id_desa": "7503041001",
+      "nama_tps": "3",
+      "jml_dpt": 279,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "192",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503012",
+      "id_desa": "7503012006",
+      "nama_tps": "4",
+      "jml_dpt": 271,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "193",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503012",
+      "id_desa": "7503012006",
+      "nama_tps": "5",
+      "jml_dpt": 249,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "194",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503012",
+      "id_desa": "7503012006",
+      "nama_tps": "6",
+      "jml_dpt": 197,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "195",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503012",
+      "id_desa": "7503012006",
+      "nama_tps": "1",
+      "jml_dpt": 285,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "196",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503012",
+      "id_desa": "7503012006",
+      "nama_tps": "2",
+      "jml_dpt": 245,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "197",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503012",
+      "id_desa": "7503012006",
+      "nama_tps": "3",
+      "jml_dpt": 175,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "198",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503012",
+      "id_desa": "7503012006",
+      "nama_tps": "4",
+      "jml_dpt": 221,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "199",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503012",
+      "id_desa": "7503012006",
+      "nama_tps": "1",
+      "jml_dpt": 291,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "2",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "7503040014",
+      "nama_tps": "2",
+      "jml_dpt": 293,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "20",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "9500000002",
+      "nama_tps": "2",
+      "jml_dpt": 235,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "200",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503031",
+      "id_desa": "7503031003",
+      "nama_tps": "2",
+      "jml_dpt": 275,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "201",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503031",
+      "id_desa": "7503031003",
+      "nama_tps": "1",
+      "jml_dpt": 253,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "202",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503031",
+      "id_desa": "7503031003",
+      "nama_tps": "2",
+      "jml_dpt": 220,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "203",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503031",
+      "id_desa": "7503031003",
+      "nama_tps": "3",
+      "jml_dpt": 288,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "204",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503031",
+      "id_desa": "7503031003",
+      "nama_tps": "4",
+      "jml_dpt": 194,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "205",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503031",
+      "id_desa": "7503031003",
+      "nama_tps": "5",
+      "jml_dpt": 257,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "206",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "7503040005",
+      "nama_tps": "1",
+      "jml_dpt": 275,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "207",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "7503040005",
+      "nama_tps": "2",
+      "jml_dpt": 225,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "208",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "7503040005",
+      "nama_tps": "3",
+      "jml_dpt": 279,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "209",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "7503040005",
+      "nama_tps": "4",
+      "jml_dpt": 282,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "21",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "9500000002",
+      "nama_tps": "3",
+      "jml_dpt": 270,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "210",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "7503040005",
+      "nama_tps": "1",
+      "jml_dpt": 275,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "211",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503012",
+      "id_desa": "7503012005",
+      "nama_tps": "2",
+      "jml_dpt": 121,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "212",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503012",
+      "id_desa": "7503012005",
+      "nama_tps": "3",
+      "jml_dpt": 274,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "213",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503012",
+      "id_desa": "7503012005",
+      "nama_tps": "1",
+      "jml_dpt": 291,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "214",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503012",
+      "id_desa": "7503012005",
+      "nama_tps": "2",
+      "jml_dpt": 269,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "215",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030005",
+      "nama_tps": "3",
+      "jml_dpt": 272,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "216",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030005",
+      "nama_tps": "4",
+      "jml_dpt": 292,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "217",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030005",
+      "nama_tps": "5",
+      "jml_dpt": 291,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "218",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030005",
+      "nama_tps": "1",
+      "jml_dpt": 212,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "219",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030005",
+      "nama_tps": "2",
+      "jml_dpt": 213,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "22",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "9500000002",
+      "nama_tps": "1",
+      "jml_dpt": 282,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "220",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030005",
+      "nama_tps": "3",
+      "jml_dpt": 275,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "221",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030005",
+      "nama_tps": "4",
+      "jml_dpt": 294,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "222",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030005",
+      "nama_tps": "5",
+      "jml_dpt": 295,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "223",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030005",
+      "nama_tps": "1",
+      "jml_dpt": 268,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "224",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030005",
+      "nama_tps": "2",
+      "jml_dpt": 256,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "225",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030007",
+      "nama_tps": "3",
+      "jml_dpt": 250,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "226",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030007",
+      "nama_tps": "4",
+      "jml_dpt": 180,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "227",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030007",
+      "nama_tps": "5",
+      "jml_dpt": 263,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "228",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030007",
+      "nama_tps": "1",
+      "jml_dpt": 262,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "229",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030007",
+      "nama_tps": "2",
+      "jml_dpt": 193,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "23",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "9500000002",
+      "nama_tps": "2",
+      "jml_dpt": 259,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "230",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030007",
+      "nama_tps": "3",
+      "jml_dpt": 287,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "231",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030007",
+      "nama_tps": "4",
+      "jml_dpt": 254,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "232",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030007",
+      "nama_tps": "5",
+      "jml_dpt": 218,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "233",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030007",
+      "nama_tps": "1",
+      "jml_dpt": 282,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "234",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030007",
+      "nama_tps": "2",
+      "jml_dpt": 286,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "235",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503033",
+      "id_desa": "7503033005",
+      "nama_tps": "3",
+      "jml_dpt": 261,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "236",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503033",
+      "id_desa": "7503033005",
+      "nama_tps": "4",
+      "jml_dpt": 281,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "237",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503033",
+      "id_desa": "7503033005",
+      "nama_tps": "5",
+      "jml_dpt": 100,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "238",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503033",
+      "id_desa": "7503033005",
+      "nama_tps": "901",
+      "jml_dpt": 138,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "239",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503012",
+      "id_desa": "7503012004",
+      "nama_tps": "1",
+      "jml_dpt": 286,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "24",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "9500000002",
+      "nama_tps": "3",
+      "jml_dpt": 274,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "240",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503012",
+      "id_desa": "7503012004",
+      "nama_tps": "2",
+      "jml_dpt": 292,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "241",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503012",
+      "id_desa": "7503012004",
+      "nama_tps": "1",
+      "jml_dpt": 288,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "242",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503012",
+      "id_desa": "7503012004",
+      "nama_tps": "2",
+      "jml_dpt": 281,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "243",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503012",
+      "id_desa": "7503012004",
+      "nama_tps": "3",
+      "jml_dpt": 168,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "244",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503050",
+      "id_desa": "7503050013",
+      "nama_tps": "4",
+      "jml_dpt": 265,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "245",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503050",
+      "id_desa": "7503050013",
+      "nama_tps": "1",
+      "jml_dpt": 263,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "246",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503050",
+      "id_desa": "7503050013",
+      "nama_tps": "2",
+      "jml_dpt": 290,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "247",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503011",
+      "id_desa": "7503011001",
+      "nama_tps": "3",
+      "jml_dpt": 289,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "248",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503011",
+      "id_desa": "7503011001",
+      "nama_tps": "4",
+      "jml_dpt": 287,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "249",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503011",
+      "id_desa": "7503011001",
+      "nama_tps": "5",
+      "jml_dpt": 278,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "25",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "9500000002",
+      "nama_tps": "4",
+      "jml_dpt": 285,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "250",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503011",
+      "id_desa": "7503011001",
+      "nama_tps": "6",
+      "jml_dpt": 243,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "251",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503011",
+      "id_desa": "7503011005",
+      "nama_tps": "7",
+      "jml_dpt": 125,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "252",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503011",
+      "id_desa": "7503011005",
+      "nama_tps": "1",
+      "jml_dpt": 285,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "253",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503011",
+      "id_desa": "7503011005",
+      "nama_tps": "2",
+      "jml_dpt": 291,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "254",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503011",
+      "id_desa": "7503011005",
+      "nama_tps": "3",
+      "jml_dpt": 284,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "255",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503033",
+      "id_desa": "7503033009",
+      "nama_tps": "4",
+      "jml_dpt": 288,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "256",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503033",
+      "id_desa": "7503033009",
+      "nama_tps": "5",
+      "jml_dpt": 293,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "257",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503033",
+      "id_desa": "7503033009",
+      "nama_tps": "6",
+      "jml_dpt": 201,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "258",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "7503040002",
+      "nama_tps": "1",
+      "jml_dpt": 233,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "259",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "7503040002",
+      "nama_tps": "2",
+      "jml_dpt": 283,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "26",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503050",
+      "id_desa": "7503050012",
+      "nama_tps": "1",
+      "jml_dpt": 292,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "260",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "7503040002",
+      "nama_tps": "3",
+      "jml_dpt": 287,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "261",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "7503040002",
+      "nama_tps": "4",
+      "jml_dpt": 292,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "262",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "7503040002",
+      "nama_tps": "1",
+      "jml_dpt": 296,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "263",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "7503040002",
+      "nama_tps": "2",
+      "jml_dpt": 242,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "264",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "7503040018",
+      "nama_tps": "3",
+      "jml_dpt": 221,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "265",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "7503040018",
+      "nama_tps": "1",
+      "jml_dpt": 253,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "266",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "7503040018",
+      "nama_tps": "2",
+      "jml_dpt": 264,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "267",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "7503040015",
+      "nama_tps": "3",
+      "jml_dpt": 267,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "268",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "7503040015",
+      "nama_tps": "4",
+      "jml_dpt": 265,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "269",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "7503040015",
+      "nama_tps": "5",
+      "jml_dpt": 276,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "27",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503050",
+      "id_desa": "7503050012",
+      "nama_tps": "2",
+      "jml_dpt": 281,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "270",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "7503040015",
+      "nama_tps": "1",
+      "jml_dpt": 292,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "271",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "7503040015",
+      "nama_tps": "2",
+      "jml_dpt": 288,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "272",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503011",
+      "id_desa": "7503011004",
+      "nama_tps": "3",
+      "jml_dpt": 152,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "273",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503011",
+      "id_desa": "7503011004",
+      "nama_tps": "4",
+      "jml_dpt": 169,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "274",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503011",
+      "id_desa": "7503011004",
+      "nama_tps": "1",
+      "jml_dpt": 272,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "275",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503011",
+      "id_desa": "7503011004",
+      "nama_tps": "2",
+      "jml_dpt": 235,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "276",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503011",
+      "id_desa": "7503011004",
+      "nama_tps": "3",
+      "jml_dpt": 188,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "277",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503011",
+      "id_desa": "7503011004",
+      "nama_tps": "4",
+      "jml_dpt": 260,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "278",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503011",
+      "id_desa": "7503011004",
+      "nama_tps": "1",
+      "jml_dpt": 221,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "279",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503011",
+      "id_desa": "7503011004",
+      "nama_tps": "2",
+      "jml_dpt": 246,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "28",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503050",
+      "id_desa": "7503050012",
+      "nama_tps": "3",
+      "jml_dpt": 291,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "280",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503011",
+      "id_desa": "7503011004",
+      "nama_tps": "3",
+      "jml_dpt": 247,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "281",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503011",
+      "id_desa": "7503011004",
+      "nama_tps": "1",
+      "jml_dpt": 295,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "282",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030020",
+      "nama_tps": "2",
+      "jml_dpt": 293,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "283",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030020",
+      "nama_tps": "3",
+      "jml_dpt": 280,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "284",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030020",
+      "nama_tps": "1",
+      "jml_dpt": 294,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "285",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030020",
+      "nama_tps": "1",
+      "jml_dpt": 247,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "286",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030020",
+      "nama_tps": "2",
+      "jml_dpt": 223,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "287",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030020",
+      "nama_tps": "3",
+      "jml_dpt": 240,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "288",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030020",
+      "nama_tps": "1",
+      "jml_dpt": 262,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "289",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503041",
+      "id_desa": "9500000005",
+      "nama_tps": "2",
+      "jml_dpt": 203,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "29",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503050",
+      "id_desa": "7503050012",
+      "nama_tps": "4",
+      "jml_dpt": 198,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "290",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503041",
+      "id_desa": "9500000005",
+      "nama_tps": "1",
+      "jml_dpt": 226,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "291",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503041",
+      "id_desa": "9500000005",
+      "nama_tps": "2",
+      "jml_dpt": 277,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "292",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503041",
+      "id_desa": "9500000005",
+      "nama_tps": "3",
+      "jml_dpt": 287,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "293",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503041",
+      "id_desa": "9500000005",
+      "nama_tps": "4",
+      "jml_dpt": 268,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "294",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503041",
+      "id_desa": "9500000005",
+      "nama_tps": "1",
+      "jml_dpt": 285,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "295",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503041",
+      "id_desa": "9500000005",
+      "nama_tps": "2",
+      "jml_dpt": 278,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "296",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503041",
+      "id_desa": "9500000005",
+      "nama_tps": "3",
+      "jml_dpt": 234,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "297",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503041",
+      "id_desa": "9500000006",
+      "nama_tps": "4",
+      "jml_dpt": 121,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "298",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503041",
+      "id_desa": "9500000006",
+      "nama_tps": "1",
+      "jml_dpt": 288,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "299",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503041",
+      "id_desa": "9500000006",
+      "nama_tps": "2",
+      "jml_dpt": 278,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "3",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "7503040014",
+      "nama_tps": "3",
+      "jml_dpt": 275,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "30",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503050",
+      "id_desa": "7503050012",
+      "nama_tps": "5",
+      "jml_dpt": 151,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "300",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503041",
+      "id_desa": "9500000006",
+      "nama_tps": "3",
+      "jml_dpt": 278,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "301",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "7503040013",
+      "nama_tps": "4",
+      "jml_dpt": 220,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "302",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "7503040013",
+      "nama_tps": "1",
+      "jml_dpt": 269,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "303",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "7503040013",
+      "nama_tps": "2",
+      "jml_dpt": 292,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "304",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "7503040013",
+      "nama_tps": "3",
+      "jml_dpt": 179,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "305",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "7503040017",
+      "nama_tps": "4",
+      "jml_dpt": 295,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "306",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "7503040017",
+      "nama_tps": "5",
+      "jml_dpt": 158,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "307",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "7503040017",
+      "nama_tps": "1",
+      "jml_dpt": 291,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "308",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503050",
+      "id_desa": "7503050002",
+      "nama_tps": "2",
+      "jml_dpt": 296,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "309",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503050",
+      "id_desa": "7503050002",
+      "nama_tps": "3",
+      "jml_dpt": 291,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "31",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503050",
+      "id_desa": "7503050012",
+      "nama_tps": "1",
+      "jml_dpt": 283,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "310",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503050",
+      "id_desa": "7503050002",
+      "nama_tps": "4",
+      "jml_dpt": 293,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "311",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503050",
+      "id_desa": "7503050002",
+      "nama_tps": "1",
+      "jml_dpt": 295,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "312",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503050",
+      "id_desa": "7503050002",
+      "nama_tps": "2",
+      "jml_dpt": 278,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "313",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503011",
+      "id_desa": "7503011006",
+      "nama_tps": "3",
+      "jml_dpt": 250,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "314",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503011",
+      "id_desa": "7503011006",
+      "nama_tps": "4",
+      "jml_dpt": 156,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "315",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503011",
+      "id_desa": "7503011006",
+      "nama_tps": "1",
+      "jml_dpt": 295,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "316",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030006",
+      "nama_tps": "2",
+      "jml_dpt": 295,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "317",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030006",
+      "nama_tps": "1",
+      "jml_dpt": 214,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "318",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030006",
+      "nama_tps": "2",
+      "jml_dpt": 196,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "319",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030006",
+      "nama_tps": "3",
+      "jml_dpt": 191,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "32",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503021",
+      "id_desa": "7503021002",
+      "nama_tps": "2",
+      "jml_dpt": 282,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "320",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030006",
+      "nama_tps": "1",
+      "jml_dpt": 254,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "321",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030006",
+      "nama_tps": "2",
+      "jml_dpt": 278,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "322",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030021",
+      "nama_tps": "3",
+      "jml_dpt": 259,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "323",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030021",
+      "nama_tps": "1",
+      "jml_dpt": 218,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "324",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030021",
+      "nama_tps": "2",
+      "jml_dpt": 277,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "325",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030021",
+      "nama_tps": "3",
+      "jml_dpt": 221,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "326",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030021",
+      "nama_tps": "4",
+      "jml_dpt": 224,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "327",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030021",
+      "nama_tps": "1",
+      "jml_dpt": 232,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "328",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030021",
+      "nama_tps": "2",
+      "jml_dpt": 261,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "329",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503051",
+      "id_desa": "7503051001",
+      "nama_tps": "3",
+      "jml_dpt": 176,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "33",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503021",
+      "id_desa": "7503021002",
+      "nama_tps": "3",
+      "jml_dpt": 291,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "330",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503051",
+      "id_desa": "7503051001",
+      "nama_tps": "4",
+      "jml_dpt": 225,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "331",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503051",
+      "id_desa": "7503051001",
+      "nama_tps": "1",
+      "jml_dpt": 291,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "332",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503051",
+      "id_desa": "7503051001",
+      "nama_tps": "2",
+      "jml_dpt": 288,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "333",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503051",
+      "id_desa": "7503051001",
+      "nama_tps": "3",
+      "jml_dpt": 268,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "334",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503051",
+      "id_desa": "7503051001",
+      "nama_tps": "4",
+      "jml_dpt": 255,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "335",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503010",
+      "id_desa": "7503010004",
+      "nama_tps": "1",
+      "jml_dpt": 277,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "336",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503010",
+      "id_desa": "7503010004",
+      "nama_tps": "2",
+      "jml_dpt": 260,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "337",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503010",
+      "id_desa": "7503010004",
+      "nama_tps": "3",
+      "jml_dpt": 254,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "338",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503041",
+      "id_desa": "7503041006",
+      "nama_tps": "4",
+      "jml_dpt": 253,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "339",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503041",
+      "id_desa": "7503041006",
+      "nama_tps": "1",
+      "jml_dpt": 223,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "34",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503010",
+      "id_desa": "7503010021",
+      "nama_tps": "4",
+      "jml_dpt": 296,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "340",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503041",
+      "id_desa": "7503041006",
+      "nama_tps": "2",
+      "jml_dpt": 210,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "341",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "9500000007",
+      "nama_tps": "3",
+      "jml_dpt": 231,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "342",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "9500000007",
+      "nama_tps": "1",
+      "jml_dpt": 298,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "343",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "9500000007",
+      "nama_tps": "2",
+      "jml_dpt": 159,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "344",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "7503040001",
+      "nama_tps": "1",
+      "jml_dpt": 255,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "345",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "7503040001",
+      "nama_tps": "2",
+      "jml_dpt": 279,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "346",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "7503040001",
+      "nama_tps": "3",
+      "jml_dpt": 296,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "347",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "9500000008",
+      "nama_tps": "4",
+      "jml_dpt": 285,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "348",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "9500000008",
+      "nama_tps": "1",
+      "jml_dpt": 292,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "349",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "9500000008",
+      "nama_tps": "2",
+      "jml_dpt": 293,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "35",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503010",
+      "id_desa": "7503010021",
+      "nama_tps": "5",
+      "jml_dpt": 224,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "350",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503050",
+      "id_desa": "7503050003",
+      "nama_tps": "3",
+      "jml_dpt": 298,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "351",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503050",
+      "id_desa": "7503050003",
+      "nama_tps": "1",
+      "jml_dpt": 264,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "352",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503050",
+      "id_desa": "7503050003",
+      "nama_tps": "2",
+      "jml_dpt": 260,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "353",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503050",
+      "id_desa": "7503050003",
+      "nama_tps": "3",
+      "jml_dpt": 246,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "354",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503050",
+      "id_desa": "7503050003",
+      "nama_tps": "4",
+      "jml_dpt": 263,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "355",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503032",
+      "id_desa": "7503032006",
+      "nama_tps": "1",
+      "jml_dpt": 290,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "356",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503032",
+      "id_desa": "7503032006",
+      "nama_tps": "2",
+      "jml_dpt": 284,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "357",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503032",
+      "id_desa": "7503032006",
+      "nama_tps": "3",
+      "jml_dpt": 246,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "358",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503032",
+      "id_desa": "7503032006",
+      "nama_tps": "4",
+      "jml_dpt": 128,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "359",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503050",
+      "id_desa": "7503050005",
+      "nama_tps": "1",
+      "jml_dpt": 290,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "36",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503010",
+      "id_desa": "7503010021",
+      "nama_tps": "6",
+      "jml_dpt": 215,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "360",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503050",
+      "id_desa": "7503050005",
+      "nama_tps": "2",
+      "jml_dpt": 278,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "361",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503050",
+      "id_desa": "7503050005",
+      "nama_tps": "3",
+      "jml_dpt": 279,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "362",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503050",
+      "id_desa": "7503050005",
+      "nama_tps": "4",
+      "jml_dpt": 288,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "363",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503050",
+      "id_desa": "7503050005",
+      "nama_tps": "5",
+      "jml_dpt": 275,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "364",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503050",
+      "id_desa": "7503050006",
+      "nama_tps": "1",
+      "jml_dpt": 260,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "365",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503050",
+      "id_desa": "7503050006",
+      "nama_tps": "2",
+      "jml_dpt": 276,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "366",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503050",
+      "id_desa": "7503050006",
+      "nama_tps": "3",
+      "jml_dpt": 111,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "367",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503050",
+      "id_desa": "7503050006",
+      "nama_tps": "1",
+      "jml_dpt": 291,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "368",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503050",
+      "id_desa": "7503050006",
+      "nama_tps": "2",
+      "jml_dpt": 291,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "369",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503020",
+      "id_desa": "7503020011",
+      "nama_tps": "3",
+      "jml_dpt": 282,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "37",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503010",
+      "id_desa": "7503010021",
+      "nama_tps": "1",
+      "jml_dpt": 282,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "370",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503020",
+      "id_desa": "7503020011",
+      "nama_tps": "4",
+      "jml_dpt": 300,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "371",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503020",
+      "id_desa": "7503020011",
+      "nama_tps": "5",
+      "jml_dpt": 294,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "372",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503031",
+      "id_desa": "7503031004",
+      "nama_tps": "6",
+      "jml_dpt": 300,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "373",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503031",
+      "id_desa": "7503031004",
+      "nama_tps": "1",
+      "jml_dpt": 270,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "374",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503031",
+      "id_desa": "7503031004",
+      "nama_tps": "2",
+      "jml_dpt": 267,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "375",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503031",
+      "id_desa": "7503031004",
+      "nama_tps": "3",
+      "jml_dpt": 253,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "376",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503012",
+      "id_desa": "7503012001",
+      "nama_tps": "4",
+      "jml_dpt": 222,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "377",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503012",
+      "id_desa": "7503012001",
+      "nama_tps": "5",
+      "jml_dpt": 200,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "378",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503012",
+      "id_desa": "7503012001",
+      "nama_tps": "1",
+      "jml_dpt": 224,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "379",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503012",
+      "id_desa": "7503012001",
+      "nama_tps": "2",
+      "jml_dpt": 255,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "38",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030022",
+      "nama_tps": "2",
+      "jml_dpt": 273,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "380",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503032",
+      "id_desa": "7503032002",
+      "nama_tps": "3",
+      "jml_dpt": 291,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "381",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503032",
+      "id_desa": "7503032002",
+      "nama_tps": "4",
+      "jml_dpt": 272,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "382",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503032",
+      "id_desa": "7503032002",
+      "nama_tps": "1",
+      "jml_dpt": 274,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "383",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503032",
+      "id_desa": "7503032002",
+      "nama_tps": "2",
+      "jml_dpt": 286,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "384",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503032",
+      "id_desa": "7503032002",
+      "nama_tps": "3",
+      "jml_dpt": 238,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "385",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503032",
+      "id_desa": "7503032002",
+      "nama_tps": "1",
+      "jml_dpt": 291,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "386",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503032",
+      "id_desa": "7503032007",
+      "nama_tps": "2",
+      "jml_dpt": 295,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "387",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503032",
+      "id_desa": "7503032007",
+      "nama_tps": "3",
+      "jml_dpt": 285,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "388",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503032",
+      "id_desa": "7503032007",
+      "nama_tps": "1",
+      "jml_dpt": 268,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "389",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503032",
+      "id_desa": "7503032007",
+      "nama_tps": "2",
+      "jml_dpt": 246,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "39",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030022",
+      "nama_tps": "3",
+      "jml_dpt": 267,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "390",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503032",
+      "id_desa": "7503032007",
+      "nama_tps": "3",
+      "jml_dpt": 124,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "391",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503010",
+      "id_desa": "7503010005",
+      "nama_tps": "1",
+      "jml_dpt": 284,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "392",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503010",
+      "id_desa": "7503010005",
+      "nama_tps": "2",
+      "jml_dpt": 293,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "393",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503010",
+      "id_desa": "7503010005",
+      "nama_tps": "3",
+      "jml_dpt": 268,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "394",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503010",
+      "id_desa": "7503010005",
+      "nama_tps": "1",
+      "jml_dpt": 276,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "395",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503010",
+      "id_desa": "7503010024",
+      "nama_tps": "2",
+      "jml_dpt": 266,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "396",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503010",
+      "id_desa": "7503010024",
+      "nama_tps": "3",
+      "jml_dpt": 176,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "397",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503010",
+      "id_desa": "7503010024",
+      "nama_tps": "1",
+      "jml_dpt": 278,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "398",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503010",
+      "id_desa": "7503010024",
+      "nama_tps": "2",
+      "jml_dpt": 226,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "399",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030008",
+      "nama_tps": "3",
+      "jml_dpt": 254,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "4",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503040",
+      "id_desa": "7503040014",
+      "nama_tps": "4",
+      "jml_dpt": 268,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "40",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030022",
+      "nama_tps": "4",
+      "jml_dpt": 235,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "400",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030008",
+      "nama_tps": "4",
+      "jml_dpt": 195,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "401",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030008",
+      "nama_tps": "1",
+      "jml_dpt": 209,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "402",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030008",
+      "nama_tps": "2",
+      "jml_dpt": 225,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "403",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030008",
+      "nama_tps": "3",
+      "jml_dpt": 224,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "404",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030008",
+      "nama_tps": "1",
+      "jml_dpt": 161,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "405",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503030",
+      "id_desa": "7503030008",
+      "nama_tps": "2",
+      "jml_dpt": 239,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "406",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503041",
+      "id_desa": "7503041007",
+      "nama_tps": "3",
+      "jml_dpt": 279,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "407",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503041",
+      "id_desa": "7503041007",
+      "nama_tps": "4",
+      "jml_dpt": 252,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "408",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503041",
+      "id_desa": "7503041007",
+      "nama_tps": "5",
+      "jml_dpt": 280,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "409",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503010",
+      "id_desa": "7503010003",
+      "nama_tps": "6",
+      "jml_dpt": 283,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "41",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503033",
+      "id_desa": "7503033002",
+      "nama_tps": "1",
+      "jml_dpt": 247,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "410",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503010",
+      "id_desa": "7503010003",
+      "nama_tps": "7",
+      "jml_dpt": 152,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "411",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503010",
+      "id_desa": "7503010003",
+      "nama_tps": "8",
+      "jml_dpt": 162,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "412",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503010",
+      "id_desa": "7503010003",
+      "nama_tps": "1",
+      "jml_dpt": 287,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "413",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503010",
+      "id_desa": "7503010019",
+      "nama_tps": "2",
+      "jml_dpt": 290,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "414",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503010",
+      "id_desa": "7503010019",
+      "nama_tps": "3",
+      "jml_dpt": 296,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "415",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503010",
+      "id_desa": "7503010019",
+      "nama_tps": "4",
+      "jml_dpt": 118,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "416",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503010",
+      "id_desa": "7503010019",
+      "nama_tps": "1",
+      "jml_dpt": 272,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "417",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503010",
+      "id_desa": "7503010023",
+      "nama_tps": "2",
+      "jml_dpt": 199,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "418",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503010",
+      "id_desa": "7503010023",
+      "nama_tps": "3",
+      "jml_dpt": 292,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "419",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503010",
+      "id_desa": "7503010023",
+      "nama_tps": "1",
+      "jml_dpt": 271,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "42",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503033",
+      "id_desa": "7503033002",
+      "nama_tps": "2",
+      "jml_dpt": 245,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "420",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503010",
+      "id_desa": "7503010027",
+      "nama_tps": "2",
+      "jml_dpt": 291,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "421",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503010",
+      "id_desa": "7503010027",
+      "nama_tps": "3",
+      "jml_dpt": 233,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "422",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503011",
+      "id_desa": "7503011003",
+      "nama_tps": "1",
+      "jml_dpt": 260,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "423",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503021",
+      "id_desa": "7503021006",
+      "nama_tps": "2",
+      "jml_dpt": 171,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "424",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503021",
+      "id_desa": "7503021006",
+      "nama_tps": "1",
+      "jml_dpt": 174,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "425",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503020",
+      "id_desa": "7503020003",
+      "nama_tps": "2",
+      "jml_dpt": 130,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "426",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503020",
+      "id_desa": "7503020003",
+      "nama_tps": "1",
+      "jml_dpt": 194,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "427",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503020",
+      "id_desa": "7503020003",
+      "nama_tps": "2",
+      "jml_dpt": 135,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "428",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503020",
+      "id_desa": "7503020003",
+      "nama_tps": "1",
+      "jml_dpt": 289,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "429",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503020",
+      "id_desa": "7503020010",
+      "nama_tps": "2",
+      "jml_dpt": 298,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "43",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503033",
+      "id_desa": "7503033002",
+      "nama_tps": "1",
+      "jml_dpt": 164,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "430",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503020",
+      "id_desa": "7503020010",
+      "nama_tps": "3",
+      "jml_dpt": 291,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "431",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503020",
+      "id_desa": "7503020010",
+      "nama_tps": "1",
+      "jml_dpt": 286,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "432",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503020",
+      "id_desa": "7503020010",
+      "nama_tps": "2",
+      "jml_dpt": 146,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "433",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503021",
+      "id_desa": "7503021001",
+      "nama_tps": "1",
+      "jml_dpt": 247,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "434",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503021",
+      "id_desa": "7503021001",
+      "nama_tps": "2",
+      "jml_dpt": 283,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "435",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503021",
+      "id_desa": "7503021001",
+      "nama_tps": "3",
+      "jml_dpt": 217,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "436",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503021",
+      "id_desa": "7503021001",
+      "nama_tps": "4",
+      "jml_dpt": 230,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "437",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503021",
+      "id_desa": "7503021007",
+      "nama_tps": "1",
+      "jml_dpt": 279,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "438",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503021",
+      "id_desa": "7503021007",
+      "nama_tps": "2",
+      "jml_dpt": 234,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "439",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503021",
+      "id_desa": "7503021007",
+      "nama_tps": "3",
+      "jml_dpt": 292,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "44",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503033",
+      "id_desa": "7503033002",
+      "nama_tps": "2",
+      "jml_dpt": 242,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "45",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503033",
+      "id_desa": "7503033002",
+      "nama_tps": "3",
+      "jml_dpt": 216,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "46",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503033",
+      "id_desa": "7503033002",
+      "nama_tps": "4",
+      "jml_dpt": 262,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "47",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503033",
+      "id_desa": "7503033002",
+      "nama_tps": "1",
+      "jml_dpt": 253,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "48",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503050",
+      "id_desa": "7503050011",
+      "nama_tps": "2",
+      "jml_dpt": 250,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "49",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503050",
+      "id_desa": "7503050011",
+      "nama_tps": "3",
+      "jml_dpt": 199,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "5",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503020",
+      "id_desa": "9500000001",
+      "nama_tps": "5",
+      "jml_dpt": 247,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "50",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503050",
+      "id_desa": "7503050011",
+      "nama_tps": "4",
+      "jml_dpt": 196,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "51",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503050",
+      "id_desa": "7503050011",
+      "nama_tps": "1",
+      "jml_dpt": 160,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "52",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503050",
+      "id_desa": "7503050011",
+      "nama_tps": "2",
+      "jml_dpt": 189,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "53",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503050",
+      "id_desa": "7503050011",
+      "nama_tps": "3",
+      "jml_dpt": 281,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "54",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503010",
+      "id_desa": "7503010026",
+      "nama_tps": "4",
+      "jml_dpt": 267,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "55",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503010",
+      "id_desa": "7503010026",
+      "nama_tps": "5",
+      "jml_dpt": 286,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "56",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503012",
+      "id_desa": "7503012002",
+      "nama_tps": "6",
+      "jml_dpt": 275,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "57",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503012",
+      "id_desa": "7503012002",
+      "nama_tps": "1",
+      "jml_dpt": 276,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "58",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503012",
+      "id_desa": "7503012002",
+      "nama_tps": "2",
+      "jml_dpt": 245,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "59",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503033",
+      "id_desa": "7503033006",
+      "nama_tps": "3",
+      "jml_dpt": 266,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "6",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503020",
+      "id_desa": "9500000001",
+      "nama_tps": "6",
+      "jml_dpt": 262,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "60",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503033",
+      "id_desa": "7503033006",
+      "nama_tps": "4",
+      "jml_dpt": 290,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "61",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503033",
+      "id_desa": "7503033006",
+      "nama_tps": "5",
+      "jml_dpt": 270,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "62",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503033",
+      "id_desa": "7503033006",
+      "nama_tps": "6",
+      "jml_dpt": 262,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "63",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503033",
+      "id_desa": "7503033006",
+      "nama_tps": "7",
+      "jml_dpt": 227,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "64",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503033",
+      "id_desa": "7503033006",
+      "nama_tps": "1",
+      "jml_dpt": 266,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "65",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503033",
+      "id_desa": "7503033008",
+      "nama_tps": "2",
+      "jml_dpt": 273,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "66",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503033",
+      "id_desa": "7503033008",
+      "nama_tps": "3",
+      "jml_dpt": 287,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "67",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503033",
+      "id_desa": "7503033008",
+      "nama_tps": "4",
+      "jml_dpt": 269,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "68",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503033",
+      "id_desa": "7503033008",
+      "nama_tps": "5",
+      "jml_dpt": 290,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "69",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503033",
+      "id_desa": "7503033003",
+      "nama_tps": "6",
+      "jml_dpt": 293,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "7",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503031",
+      "id_desa": "7503031002",
+      "nama_tps": "1",
+      "jml_dpt": 249,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "70",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503033",
+      "id_desa": "7503033003",
+      "nama_tps": "1",
+      "jml_dpt": 296,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "71",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503033",
+      "id_desa": "7503033003",
+      "nama_tps": "2",
+      "jml_dpt": 293,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "72",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503033",
+      "id_desa": "7503033003",
+      "nama_tps": "3",
+      "jml_dpt": 282,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "73",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503032",
+      "id_desa": "7503032004",
+      "nama_tps": "4",
+      "jml_dpt": 291,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "74",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503032",
+      "id_desa": "7503032004",
+      "nama_tps": "1",
+      "jml_dpt": 282,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "75",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503032",
+      "id_desa": "7503032004",
+      "nama_tps": "2",
+      "jml_dpt": 248,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "76",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503032",
+      "id_desa": "7503032004",
+      "nama_tps": "3",
+      "jml_dpt": 265,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "77",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503032",
+      "id_desa": "7503032004",
+      "nama_tps": "4",
+      "jml_dpt": 233,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "78",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503032",
+      "id_desa": "7503032004",
+      "nama_tps": "1",
+      "jml_dpt": 279,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "79",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503032",
+      "id_desa": "7503032001",
+      "nama_tps": "2",
+      "jml_dpt": 235,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "8",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503031",
+      "id_desa": "7503031002",
+      "nama_tps": "2",
+      "jml_dpt": 289,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "80",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503032",
+      "id_desa": "7503032001",
+      "nama_tps": "3",
+      "jml_dpt": 220,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "81",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503032",
+      "id_desa": "7503032001",
+      "nama_tps": "4",
+      "jml_dpt": 291,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "82",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503032",
+      "id_desa": "7503032001",
+      "nama_tps": "5",
+      "jml_dpt": 241,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "83",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503032",
+      "id_desa": "7503032001",
+      "nama_tps": "1",
+      "jml_dpt": 235,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "84",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503032",
+      "id_desa": "7503032001",
+      "nama_tps": "2",
+      "jml_dpt": 286,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "85",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503050",
+      "id_desa": "7503050004",
+      "nama_tps": "3",
+      "jml_dpt": 223,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "86",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503050",
+      "id_desa": "7503050004",
+      "nama_tps": "4",
+      "jml_dpt": 206,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "87",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503050",
+      "id_desa": "7503050004",
+      "nama_tps": "1",
+      "jml_dpt": 298,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "88",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503050",
+      "id_desa": "7503050004",
+      "nama_tps": "2",
+      "jml_dpt": 297,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "89",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503011",
+      "id_desa": "7503011007",
+      "nama_tps": "3",
+      "jml_dpt": 296,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "9",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503031",
+      "id_desa": "7503031002",
+      "nama_tps": "3",
+      "jml_dpt": 280,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "90",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503011",
+      "id_desa": "7503011007",
+      "nama_tps": "1",
+      "jml_dpt": 245,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "91",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503011",
+      "id_desa": "7503011007",
+      "nama_tps": "2",
+      "jml_dpt": 241,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "92",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503010",
+      "id_desa": "7503010025",
+      "nama_tps": "3",
+      "jml_dpt": 252,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "93",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503010",
+      "id_desa": "7503010025",
+      "nama_tps": "1",
+      "jml_dpt": 187,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "94",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503010",
+      "id_desa": "7503010025",
+      "nama_tps": "2",
+      "jml_dpt": 215,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "95",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503031",
+      "id_desa": "7503031005",
+      "nama_tps": "1",
+      "jml_dpt": 289,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "96",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503031",
+      "id_desa": "7503031005",
+      "nama_tps": "2",
+      "jml_dpt": 298,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "97",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503011",
+      "id_desa": "7503011002",
+      "nama_tps": "3",
+      "jml_dpt": 289,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "98",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503011",
+      "id_desa": "7503011002",
+      "nama_tps": "1",
+      "jml_dpt": 266,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    },
+    {
+      "id": "99",
+      "id_kabupaten": "7503",
+      "id_kecamatan": "7503011",
+      "id_desa": "7503011002",
+      "nama_tps": "2",
+      "jml_dpt": 287,
+      "createdAt": "2024-07-06 04:17:21",
+      "updatedAt": "2024-07-06 04:17:21"
+    }
+  ]

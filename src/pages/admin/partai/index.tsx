@@ -10,6 +10,7 @@ import axiosInstance from "@/lib/axios";
 import toast from "react-hot-toast";
 import DialogDelete from "@/components/DialogDelete";
 import { usePartaiStore } from "@/stores/partaiStore";
+import dayjs from "@/lib/dayjs";
 
 const PartaiPage = () => {
   const [url, setUrl] = useState(`${PARTAI.GET}?page=1&pageSize=10&search=`);
@@ -62,22 +63,22 @@ const PartaiPage = () => {
             <p>{row.nomor_urut}</p>
           </div>
         );
-      case "createdAt":
-        return (
-          <div className="tracking-tighter ">
-            {/* {dayjs(row.createdAt).format("DD-MM-YYYY HH:mm:ss")} */}
-          </div>
-        );
-      case "updatedAt":
-        return (
-          <div className="tracking-tighter ">
-            {/* {dayjs(row.updatedAt).format("DD-MM-YYYY HH:mm:ss")} */}
-          </div>
-        );
+        case "createdAt":
+          return (
+            <div className="tracking-tighter ">
+              {dayjs(row.createdAt).format("DD-MM-YYYY HH:mm:ss")}
+            </div>
+          );
+        case "updatedAt":
+          return (
+            <div className="tracking-tighter ">
+              {dayjs(row.updatedAt).format("DD-MM-YYYY HH:mm:ss")}
+            </div>
+          );
       case "actions":
         return (
           <div className="relative flex items-center justify-end gap-2">
-            <Button
+            {/* <Button
               size="sm"
               onClick={() => handleModalsTrigger("form", row)}
               isIconOnly
@@ -90,7 +91,7 @@ const PartaiPage = () => {
               isIconOnly
               color="danger"
               startContent={<Trash size={15} />}
-            />
+            /> */}
           </div>
         );
       default:
@@ -139,7 +140,7 @@ const PartaiPage = () => {
             <DataTable
               searchingKey="Nama Partai"
               loading={loadingData}
-              triggerSearch={(e) => setUrl(`${PARTAI.GET}?page=1&search=${e}`)}
+              triggerSearch={(e) => setUrl(`${PARTAI.GET}?page=1&q=${e}`)}
               triggerChangePage={(e) => setUrl(`${PARTAI.GET}?page=${e}`)}
               data={result}
               page={page}
@@ -149,13 +150,13 @@ const PartaiPage = () => {
               renderCell={renderCell}
               rightTop={
                 <>
-                  <Button
+                  {/* <Button
                     color="primary"
                     onClick={() => handleModalsTrigger("form", null)}
                     startContent={<PlusCircle />}
                   >
                     Tambah Partai
-                  </Button>
+                  </Button> */}
                 </>
               }
             />

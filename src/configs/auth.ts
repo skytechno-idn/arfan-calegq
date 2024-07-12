@@ -16,6 +16,7 @@ export const authConfig = {
   jwt: {
     maxAge,
   },
+  // secret:'EscAScpAK//O36GJKHswop3LYHADYFC6LKcxi13m4TE=',
   providers: [
     CredentialsProvider({
       name: "Credentials",

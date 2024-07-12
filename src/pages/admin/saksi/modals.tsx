@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React, { useEffect, useState } from "react";
 import {
   Modal,
   ModalContent,
@@ -19,20 +19,31 @@ import axiosInstance from "@/lib/axios";
 import { mapValues } from "lodash";
 import { InfoIcon } from "lucide-react";
 
-import { SAKSI } from "@/configs/admin-endpoints";
+import { LOCATION, SAKSI } from "@/configs/admin-endpoints";
 import { useSaksiStore } from "@/stores/saksiStore";
+import useSWR from "swr";
+import { padNumber } from "@/lib/helper";
 
 type FormSchemaType = TypeSaksiSchema;
-export default function Modals({ onMutate, tpsData, kecamatanData }) {
+export default function Modals({ onMutate }) {
+  const [filterKec, setFilterKec] = useState<any>([]);
+  const [filterDesa, setFilterDesa] = useState<any>([]);
 
-  const tpsitems = tpsData?.map((item) => ({
-    value: item?.id,
-    label: `${item?.id} - ${item.kecamatan.nama_kacamatan} | ${item?.desa?.nama_desa} - TPS ${item?.nama_tps}`,
-  }));
-  const kecamatanitems = tpsData?.map((item) => ({
-    value: item?.id,
-    label: `${item?.id} - ${item.kecamatan.nama_kacamatan} | ${item?.desa?.nama_desa} - TPS ${item?.nama_tps}`,
-  }));
+  const { data: responseDataKec, isLoading: loadingDataKec } = useSWR(
+    `${LOCATION.KEC}`,
+    {
+      keepPreviousData: true,
+    }
+  );
+  const { data: responseDataDESA, isLoading: loadingDataDESA } = useSWR(
+    filterKec?.length ? `${LOCATION.DESA}${filterKec?.[0]}` : null
+  );
+  const { data: responseDataTPS, isLoading: loadingDataTPS } = useSWR(
+    filterKec.length && filterDesa.length
+      ? `${LOCATION.TPS}${filterDesa}`
+      : null
+  );
+
   const {
     modals,
     handleModalsTrigger,
@@ -56,6 +67,9 @@ export default function Modals({ onMutate, tpsData, kecamatanData }) {
 
   useEffect(() => {
     reset();
+
+    setFilterKec([rowSelected?.tps?.id_kecamatan]);
+    setFilterDesa([rowSelected?.tps?.id_desa]);
     mapValues(rowSelected, (value, key: any) => {
       if (key !== "password") {
         setValue(key, value);
@@ -70,14 +84,18 @@ export default function Modals({ onMutate, tpsData, kecamatanData }) {
       let response: any;
       if (rowSelected) {
         response = await axiosInstance.put(
-          `${SAKSI}/update/${rowSelected.id}`,
+          `${SAKSI.UPDATE}/${rowSelected.id}`,
           data
         );
       } else {
-        response = await axiosInstance.post(`${SAKSI}/create`, data);
+        response = await axiosInstance.post(`${SAKSI.CREATE}`, data);
       }
       if (response?.data.success) {
-        toast.success("success");
+        toast.success(
+          rowSelected
+            ? "Berhasil Melakukan Edit Data"
+            : "Berhasil Melakukan Tambah Data"
+        );
         handleModalsTrigger("form");
         reset();
         onMutate();
@@ -85,8 +103,7 @@ export default function Modals({ onMutate, tpsData, kecamatanData }) {
         toast.error(response.data.message ?? "fail");
       }
     } catch (e) {
-      toast.error("error");
-      console.log(e);
+      toast.error("Gagal melakukan Penamabahan Data");
     } finally {
       setProcessing(false);
     }
@@ -98,23 +115,40 @@ export default function Modals({ onMutate, tpsData, kecamatanData }) {
         <Select
           label="Kecamatan"
           placeholder="Pilih Kecamatan"
-          //   defaultSelectedKeys={
-          //     new Set([`${getValues("role") || rowSelected?.role}`])
-          //   }
-          //   {...register("role")}
-          //   onSelectionChange={(target: any) =>
-          //     setValue("role", target.anchorKey)
-          //   }
-          //   isInvalid={!!errors?.role}
-          //   errorMessage={errors?.role?.message}
+          selectedKeys={filterKec}
+          onSelectionChange={(e) => {
+            const selectedKec: any = Array.from(e);
+            setFilterDesa([]);
+            setValue("id_tps", "");
+            setFilterKec(selectedKec);
+          }}
         >
-          {tpsitems?.map((tps) => (
-            <SelectItem key={tps.value}>{tps.label}</SelectItem>
+          {responseDataKec?.result?.map((item) => (
+            <SelectItem key={item.id}>{item.nama_kacamatan}</SelectItem>
           ))}
         </Select>
       </div>
       <div>
         <Select
+          isDisabled={filterKec?.length ? false : true}
+          label="Desa/Kelurahan"
+          placeholder="Pilih Desa"
+          selectedKeys={filterDesa}
+          onSelectionChange={(e) => {
+            const selectedDesa: any = Array.from(e);
+            setValue("id_tps", "");
+            setFilterDesa(selectedDesa);
+          }}
+        >
+          {responseDataDESA?.result?.map((item) => (
+            <SelectItem key={item.id}>{item.nama_desa}</SelectItem>
+          ))}
+        </Select>
+      </div>
+
+      <div>
+        <Select
+          isDisabled={filterKec.length && filterDesa.length ? false : true}
           label="TPS"
           placeholder="Pilih TPS"
           defaultSelectedKeys={
@@ -127,8 +161,8 @@ export default function Modals({ onMutate, tpsData, kecamatanData }) {
           isInvalid={!!errors?.id_tps}
           errorMessage={errors?.id_tps?.message}
         >
-          {tpsitems?.map((tps) => (
-            <SelectItem key={tps.value}>{tps.label}</SelectItem>
+          {responseDataTPS?.result?.map((tps) => (
+            <SelectItem key={tps.id}>{padNumber(tps.nama_tps)}</SelectItem>
           ))}
         </Select>
       </div>

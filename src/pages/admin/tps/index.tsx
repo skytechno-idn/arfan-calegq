@@ -14,6 +14,7 @@ import toast from "react-hot-toast";
 import DialogDelete from "@/components/DialogDelete";
 import { formatRibuan } from "@/lib/helper";
 import { useTpsStore } from "@/stores/tpsStore";
+import dayjs from "@/lib/dayjs";
 
 const TpsPage = () => {
   const [url, setUrl] = useState(`${TPS.GET}?page=1&pageSize=10&search=`);
@@ -25,10 +26,7 @@ const TpsPage = () => {
     keepPreviousData: true,
   });
 
-  const { data: responseDataKECAMATAN, isLoading: loadingDataKECAMATAN } =
-    useSWR(SAKSI.GET_KECAMATAN, {
-      keepPreviousData: true,
-    });
+ 
 
   const {
     rows: result,
@@ -52,7 +50,7 @@ const TpsPage = () => {
 
     switch (columnKey) {
       case "nama_tps":
-        return <div>MARISA {row.nama_tps}</div>;
+        return <div>{row?.desa?.nama_desa} {row.nama_tps}</div>;
       case "dpt":
         return (
           <div>
@@ -64,32 +62,32 @@ const TpsPage = () => {
       case "kecamatan":
         return (
           <div>
-            <p className="text-sm">Marisa</p>
+            <p className="text-sm">{row?.kecamatan?.nama_kacamatan}</p>
           </div>
         );
       case "kelurahan":
         return (
           <div>
-            <p>Marisa Utara</p>
+            <p>{row?.desa?.nama_desa}</p>
           </div>
         );
 
-      case "createdAt":
-        return (
-          <div className="tracking-tighter ">
-            {/* {dayjs(row.createdAt).format("DD-MM-YYYY HH:mm:ss")} */}
-          </div>
-        );
-      case "updatedAt":
-        return (
-          <div className="tracking-tighter ">
-            {/* {dayjs(row.updatedAt).format("DD-MM-YYYY HH:mm:ss")} */}
-          </div>
-        );
+        case "createdAt":
+          return (
+            <div className="tracking-tighter ">
+              {dayjs(row.createdAt).format("DD-MM-YYYY HH:mm:ss")}
+            </div>
+          );
+        case "updatedAt":
+          return (
+            <div className="tracking-tighter ">
+              {dayjs(row.updatedAt).format("DD-MM-YYYY HH:mm:ss")}
+            </div>
+          );
       case "actions":
         return (
           <div className="relative flex items-center justify-end gap-2">
-            <Button
+            {/* <Button
               size="sm"
               onClick={() => handleModalsTrigger("form", row)}
               isIconOnly
@@ -102,7 +100,7 @@ const TpsPage = () => {
               isIconOnly
               color="danger"
               startContent={<Trash size={15} />}
-            />
+            /> */}
           </div>
         );
       default:
@@ -147,7 +145,7 @@ const TpsPage = () => {
             onTrigger={() => destroyRow()}
           />
           <Modals
-            kecamatanData={responseDataKECAMATAN?.result ?? []}
+          
             onMutate={() => mutate(false)}
           />
           {result && (
@@ -164,13 +162,13 @@ const TpsPage = () => {
               renderCell={renderCell}
               rightTop={
                 <>
-                  <Button
+                  {/* <Button
                     color="primary"
                     onClick={() => handleModalsTrigger("form", null)}
                     startContent={<PlusCircle />}
                   >
                     Tambah TPS
-                  </Button>
+                  </Button> */}
                 </>
               }
             />

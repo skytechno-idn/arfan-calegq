@@ -7,9 +7,11 @@ import {
   DoorClosed,
   Flag,
   LayoutDashboard,
+  Megaphone,
   Newspaper,
   Pencil,
   PowerOff,
+  Speaker,
   SquareUserRound,
   User2,
   UserCog2,
@@ -42,16 +44,16 @@ const GuestLayout = ({ children }: { children: ReactNode }) => {
       icon: <LayoutDashboard className="group-hover:text-white" />,
       label: "Dashboard",
     },
-    {
-      href: "/admin/agenda",
-      icon: <CalendarClock className="group-hover:text-white" />,
-      label: "Agenda",
-    },
-    {
-      href: "/admin/berita",
-      icon: <Newspaper className="group-hover:text-white" />,
-      label: "Berita",
-    },
+    // {
+    //   href: "/admin/agenda",
+    //   icon: <CalendarClock className="group-hover:text-white" />,
+    //   label: "Agenda",
+    // },
+    // {
+    //   href: "/admin/berita",
+    //   icon: <Newspaper className="group-hover:text-white" />,
+    //   label: "Berita",
+    // },
 
     {
       href: "/admin/tps",
@@ -63,11 +65,16 @@ const GuestLayout = ({ children }: { children: ReactNode }) => {
       icon: <Flag className="group-hover:text-white" />,
       label: "Partai",
     },
-    {
-      href: "/admin/relawan",
-      icon: <Users2 className="group-hover:text-white" />,
-      label: "Relawan",
+     {
+      href: "/admin/suara",
+      icon: <Megaphone className="group-hover:text-white" />,
+      label: "Data Suara",
     },
+    // {
+    //   href: "/admin/relawan",
+    //   icon: <Users2 className="group-hover:text-white" />,
+    //   label: "Relawan",
+    // },
     {
       href: "/admin/caleg",
       icon: <SquareUserRound className="group-hover:text-white" />,
@@ -83,11 +90,11 @@ const GuestLayout = ({ children }: { children: ReactNode }) => {
       icon: <UserCog2 className="group-hover:text-white" />,
       label: "Admin",
     },
-    {
-      href: "/admin/live",
-      icon: <BarChart4Icon className="group-hover:text-white" />,
-      label: "Live Count",
-    },
+    // {
+    //   href: "/admin/live",
+    //   icon: <BarChart4Icon className="group-hover:text-white" />,
+    //   label: "Live Count",
+    // },
   ];
   return (
     <RootLayout>
@@ -133,7 +140,12 @@ const GuestLayout = ({ children }: { children: ReactNode }) => {
                 </li>
               ))}
               <li className="py-2 group hover:bg-primary px-5 cursor-pointer">
-                <Link href="#" onClick={() => signOut({ redirect: true })}>
+                <Link href="/admin" onClick={() => {
+                 
+                 signOut({ redirect: false })
+                      window.location.href = '/auth/signin'
+                 
+                }}>
                   <div className="flex gap-2">
                     <div>
                       <PowerOff className="group-hover:text-white" />
@@ -176,7 +188,10 @@ const GuestLayout = ({ children }: { children: ReactNode }) => {
                     as={Link}
                     color="danger"
                     href="#"
-                    onClick={() => signOut({ redirect: true })}
+                    onClick={() => {
+                      signOut({ redirect: false })
+                      window.location.href = '/auth/signin'
+                    }}
                     variant="flat"
                   >
                     Keluar

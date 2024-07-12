@@ -1,17 +1,14 @@
-import Image from "next/image";
-import { Inter } from "next/font/google";
 import { Spinner } from "@nextui-org/react";
 import { useRouter } from "next/router";
 import { useEffect } from "react";
+import GuestLayout from "@/layouts/GuestLayout";
 
-const inter = Inter({ subsets: ["latin"] });
-
-export default function Home() {
+const LandingPage = () => {
   const router = useRouter();
   useEffect(() => {
     const redirectInterval = setInterval(() => {
       router.push("/auth/signin");
-    }, 5000);
+    }, 1000);
 
     return () => {
       clearInterval(redirectInterval);
@@ -22,4 +19,6 @@ export default function Home() {
       <Spinner size="lg" />
     </div>
   );
-}
+};
+LandingPage.getLayout = (page) => <GuestLayout>{page}</GuestLayout>;
+export default LandingPage;

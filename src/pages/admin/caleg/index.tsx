@@ -15,6 +15,7 @@ import toast from "react-hot-toast";
 import DialogDelete from "@/components/DialogDelete";
 
 import { useCalegStore } from "@/stores/calegStore";
+import dayjs from "@/lib/dayjs";
 
 const CalegPage = () => {
   const [url, setUrl] = useState(`${CALEG.GET}?page=1&pageSize=10&search=`);
@@ -53,26 +54,28 @@ const CalegPage = () => {
 
     switch (columnKey) {
       case "nama_caleg":
-        return <div>MARISA {row.nama_caleg}</div>;
+        return <div>{row.nama_caleg}</div>;
       case "partai":
-        return <div>GERINDRA</div>;
+        return <div>{row?.partai?.label_partai}</div>;
+        case "nomor_urut":
+          return <div>{row?.nomor_urut}</div>;
 
       case "createdAt":
         return (
           <div className="tracking-tighter ">
-            {/* {dayjs(row.createdAt).format("DD-MM-YYYY HH:mm:ss")} */}
+            {dayjs(row.createdAt).format("DD-MM-YYYY HH:mm:ss")}
           </div>
         );
       case "updatedAt":
         return (
           <div className="tracking-tighter ">
-            {/* {dayjs(row.updatedAt).format("DD-MM-YYYY HH:mm:ss")} */}
+            {dayjs(row.updatedAt).format("DD-MM-YYYY HH:mm:ss")}
           </div>
         );
       case "actions":
         return (
           <div className="relative flex items-center justify-end gap-2">
-            <Button
+            {/* <Button
               size="sm"
               onClick={() => handleModalsTrigger("form", row)}
               isIconOnly
@@ -85,7 +88,7 @@ const CalegPage = () => {
               isIconOnly
               color="danger"
               startContent={<Trash size={15} />}
-            />
+            /> */}
           </div>
         );
       default:
@@ -137,7 +140,7 @@ const CalegPage = () => {
             <DataTable
               searchingKey="Nama Caleg"
               loading={loadingData}
-              triggerSearch={(e) => setUrl(`${CALEG.GET}?page=1&search=${e}`)}
+              triggerSearch={(e) => setUrl(`${CALEG.GET}?page=1&q=${e}`)}
               triggerChangePage={(e) => setUrl(`${CALEG.GET}?page=${e}`)}
               data={result}
               page={page}
@@ -147,13 +150,13 @@ const CalegPage = () => {
               renderCell={renderCell}
               rightTop={
                 <>
-                  <Button
+                  {/* <Button
                     color="primary"
                     onClick={() => handleModalsTrigger("form", null)}
                     startContent={<PlusCircle />}
                   >
                     Tambah Caleg
-                  </Button>
+                  </Button> */}
                 </>
               }
             />

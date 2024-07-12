@@ -20,16 +20,16 @@ import { mapValues } from "lodash";
 import { InfoIcon } from "lucide-react";
 
 import { CALEG, SAKSI, TPS } from "@/configs/admin-endpoints";
-;
+
 import { z } from "zod";
 import { useCalegStore } from "@/stores/calegStore";
 
 type FormSchemaType = z.infer<typeof FormSchema>;
 export default function Modals({ onMutate, kecamatanData }) {
-  const kecamatanitems = kecamatanData?.map((item) => ({
-    value: item?.id,
-    label: `${item?.id} - ${item.kecamatan.nama_kacamatan} | ${item?.desa?.nama_desa} - TPS ${item?.nama_tps}`,
-  }));
+  // const kecamatanitems = kecamatanData?.map((item) => ({
+  //   value: item?.id,
+  //   label: `${item?.id} - ${item.kecamatan.nama_kacamatan} | ${item?.desa?.nama_desa} - TPS ${item?.nama_tps}`,
+  // }));
   const {
     modals,
     handleModalsTrigger,

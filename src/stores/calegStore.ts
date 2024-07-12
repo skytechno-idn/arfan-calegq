@@ -22,6 +22,7 @@ export const useCalegStore = create<any>()(
       columns: [
         { name: "NAMA LENGKAP", uid: "nama_caleg" },
         { name: "PARTAI", uid: "partai" },
+        { name: "NOMOR", uid: "nomor_urut" },
         { name: "CREATED", uid: "createdAt" },
         { name: "UPDATED", uid: "updatedAt" },
         { name: "ACTIONS", uid: "actions" },

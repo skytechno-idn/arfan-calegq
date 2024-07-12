@@ -36,44 +36,27 @@ const MobileLayout = ({
   const tabs = [
     {
       access: true,
-      route: "/mobile/",
-      routeRef: "m.blog.page",
+      route: "/mobile",
+
       iosIcon: <LayoutDashboard className="w-7 h-7" />,
       materialIcon: <LayoutDashboard className="w-6 h-6" />,
       badgeColor: "bg-green-500",
     },
+ 
     {
       access: true,
 
-      route: "/mobile/agenda",
-      routeRef: "m.paraf.page",
-
-      iosIcon: <CalendarClock className="w-7 h-7" />,
-      materialIcon: <CalendarClock className="w-6 h-6" />,
-      badgeColor: "bg-red-500",
-    },
-    {
-      access: true,
-      counting: 1,
       route: "/mobile/tabulasi",
-      routeRef: "m.overview.page",
+
       iosIcon: <FilePenLineIcon className="w-7 h-7" />,
       materialIcon: <Home className="w-6 h-6" />,
       badgeColor: "bg-green-500",
     },
-    {
-      access: true,
-
-      route: "/mobile/berita",
-      routeRef: "m.overview.page",
-      iosIcon: <Newspaper className="w-7 h-7" />,
-      materialIcon: <Newspaper className="w-6 h-6" />,
-      badgeColor: "bg-green-500",
-    },
+    
     {
       access: true,
       route: "/mobile/profile",
-      routeRef: "m.profile.page",
+
       iosIcon: <UserCircle className="w-7 h-7" />,
       materialIcon: <UserCircle className="w-6 h-6" />,
       badgeColor: "bg-green-500",
@@ -84,20 +67,18 @@ const MobileLayout = ({
     <RootLayout>
       <App theme="ios">
         <Page>
-          <div className="pb-20">
-          {children}
-          </div>
+          <div className="pb-20">{children}</div>
           {tabbar && (
             <Tabbar
               className="left-0 bottom-0 fixed"
               labels={true}
               icons={true}
             >
-              {tabs.map((tab, index) => {
+              {tabs.map((tab: any, index) => {
                 if (tab?.access) {
                   return (
                     <TabbarLink
-                      active={tab?.routeRef === routeCurrent}
+                      active={tab?.route === router.pathname}
                       key={index}
                       onClick={() => router.push(tab.route)}
                       icon={

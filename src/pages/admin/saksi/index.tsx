@@ -20,10 +20,11 @@ import Modals from "./modals";
 import axiosInstance from "@/lib/axios";
 import toast from "react-hot-toast";
 import DialogDelete from "@/components/DialogDelete";
-import { formatRibuan } from "@/lib/helper";
+import { formatRibuan, padNumber } from "@/lib/helper";
+import dayjs from "@/lib/dayjs";
 
 const SaksiPage = () => {
-  const [url, setUrl] = useState(`${SAKSI.GET}?page=1&pageSize=10&search=`);
+  const [url, setUrl] = useState(`${SAKSI.GET}?page=1&pageSize=10&q=`);
   const {
     data: responseData,
     mutate: mutate,
@@ -31,17 +32,7 @@ const SaksiPage = () => {
   } = useSWR(`${url}`, {
     keepPreviousData: true,
   });
-  const { data: responseDataTPS, isLoading: loadingDataTPS } = useSWR(
-    SAKSI.GET_TPS,
-    {
-      keepPreviousData: true,
-    }
-  );
 
-  const { data: responseDataKECAMATAN, isLoading: loadingDataKECAMATAN } =
-    useSWR(SAKSI.GET_KECAMATAN, {
-      keepPreviousData: true,
-    });
 
   const {
     rows: result,
@@ -79,13 +70,7 @@ const SaksiPage = () => {
           </div>
         );
       case "tps":
-        return (
-          <div>
-            <p>
-              TPS <b> {row.tps?.nama_tps}</b>
-            </p>
-          </div>
-        );
+        return <div>TPS {padNumber(row.tps?.nama_tps)}</div>;
       case "dpt":
         return (
           <div>
@@ -109,13 +94,13 @@ const SaksiPage = () => {
       case "createdAt":
         return (
           <div className="tracking-tighter ">
-            {/* {dayjs(row.createdAt).format("DD-MM-YYYY HH:mm:ss")} */}
+            {dayjs(row.createdAt).format("DD-MM-YYYY HH:mm:ss")}
           </div>
         );
       case "updatedAt":
         return (
           <div className="tracking-tighter ">
-            {/* {dayjs(row.updatedAt).format("DD-MM-YYYY HH:mm:ss")} */}
+            {dayjs(row.updatedAt).format("DD-MM-YYYY HH:mm:ss")}
           </div>
         );
       case "actions":
@@ -178,17 +163,18 @@ const SaksiPage = () => {
             isOpen={modals?.alertDelete}
             onTrigger={() => destroyRow()}
           />
+
           <Modals
-            tpsData={responseDataTPS?.result ?? []}
-            kecamatanData={responseDataKECAMATAN?.result ?? []}
+          
             onMutate={() => mutate(false)}
           />
+
           {result && (
             <DataTable
               searchingKey="Nama,Email"
               loading={loadingData}
-              triggerSearch={(e) => setUrl(`${SAKSI}?page=1&search=${e}`)}
-              triggerChangePage={(e) => setUrl(`${SAKSI}?page=${e}`)}
+              triggerSearch={(e) => setUrl(`${SAKSI.GET}?page=1&q=${e}`)}
+              triggerChangePage={(e) => setUrl(`${SAKSI.GET}?page=${e}`)}
               data={result}
               page={page}
               totalPage={totalPage}
@@ -202,7 +188,7 @@ const SaksiPage = () => {
                     onClick={() => handleModalsTrigger("form", null)}
                     startContent={<PlusCircle />}
                   >
-                    Tambah Saksi
+                      <span className="lg:block hidden">Tambah Saksi</span>
                   </Button>
                 </>
               }

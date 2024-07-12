@@ -14,6 +14,7 @@ declare module "react-chart-race" {
       backgroundColor: string;
       padding: number;
       itemHeight: number;
+      width?:number;
       gap: number;
       titleStyle: {
         font: string;

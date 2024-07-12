@@ -2,9 +2,11 @@ import { devtools, persist } from "zustand/middleware";
 import { create } from "zustand";
 
 const defaultForm = {
-  nama: "",
-  telp: "",
-  tpsId: "",
+  "nama_saksi": "",
+  "email_saksi": "",
+  "telp_saksi": "",
+  "password": "",
+  "id_tps": ""
  
 };
 export const useSaksiStore = create<any>()(

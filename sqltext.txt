@@ -1,0 +1,8 @@
+SELECT s.*, 
+       t.nama_tps AS nama_tps_saksi, 
+       d.nama_desa, 
+       k.nama_kacamatan
+FROM Saksis s
+JOIN Tps t ON s.id_tps = t.id
+JOIN Desas d ON t.id_desa = d.id
+JOIN Kacamatans k ON t.id_kecamatan = k.id;

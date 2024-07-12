@@ -17,10 +17,10 @@ axiosInstance.interceptors.request.use(
       config.headers["x-access-token"] = session?.accessToken;
     }
  
-    config.data = JSON.stringify(config.data);
+
     config.headers = {
       ...config.headers,
-      "Content-Type": "application/json",
+      "Content-Type": config.headers['Content-Type'] === 'multipart/form-data' ? 'multipart/form-data' : 'application/json',
     };
     return config;
   },

@@ -14,9 +14,9 @@ import {
   Select,
 } from "@nextui-org/react";
 import { EyeOff, Eye } from "lucide-react";
-import { signIn } from "next-auth/react";
+import { signIn, signOut, useSession } from "next-auth/react";
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { SubmitHandler, useForm } from "react-hook-form";
 import { z } from "zod";
 import { zodResolver } from "@hookform/resolvers/zod";
@@ -38,6 +38,8 @@ const ForgetSchema = z.object({
 type SignUpSchemaType = z.infer<typeof SignUpSchema>;
 type ForgetSchemaType = z.infer<typeof ForgetSchema>;
 const SignInPage = () => {
+  const { data: session, status } = useSession();
+
   const searchParams = useSearchParams();
   const callbackUrl = searchParams.get("callbackUrl");
 
@@ -54,11 +56,25 @@ const SignInPage = () => {
   } = useForm<SignUpSchemaType>({
     resolver: zodResolver(SignUpSchema),
     defaultValues: {
-      email: "TEST@demo.com",
-      password: "password",
+      email: "",
+      password: "",
       type: "saksi",
     },
   });
+
+  useEffect(() => {
+    
+      if (status && status === "authenticated") {
+        const lst = localStorage.getItem("by");
+        if (lst) {
+          window.location.href = lst === "admin" ? "/admin" : "/mobile";
+        } else {
+          signOut({ redirect: false });
+         
+        }
+      }
+ 
+  }, [status]);
 
   const {
     register: registerForget,
@@ -87,7 +103,7 @@ const SignInPage = () => {
 
         return;
       }
-
+      localStorage.setItem("by", data?.type);
       window.location.href = data?.type === "admin" ? "/admin" : "/mobile";
     } catch (e) {
       toast.error("Gagal melakukan login, harap periksa data login anda");
@@ -121,6 +137,7 @@ const SignInPage = () => {
                       labelPlacement={"outside"}
                       type="email"
                       label="Email"
+                      placeholder="Masukan Akun"
                       {...register("email")}
                       isInvalid={errors?.email ? true : false}
                       errorMessage={errors?.email?.message}
@@ -130,6 +147,7 @@ const SignInPage = () => {
                   <div>
                     <Input
                       labelPlacement={"outside"}
+                      placeholder="Masukan Akun"
                       type={isVisible ? "text" : "password"}
                       label="Password"
                       {...register("password")}
@@ -165,10 +183,10 @@ const SignInPage = () => {
                           label: "Admin",
                           key: "admin",
                         },
-                        {
-                          label: "Relawan",
-                          key: "relawan",
-                        },
+                        // {
+                        //   label: "Relawan",
+                        //   key: "relawan",
+                        // },
                         {
                           label: "Saksi",
                           key: "saksi",
